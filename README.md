@@ -61,3 +61,5 @@ rdd.sumApprox(3)
 sc.stop()
 ```
 
+* Finally stop the demo: `docker-compose stop`
+
